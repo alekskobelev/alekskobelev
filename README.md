@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет, я Александр Скобелев 👋
 
-<!--
-**alekskobelev/alekskobelev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer — интеграционное тестирование, API, работа с логами и мониторингом.
 
-Here are some ideas to get you started:
+## Стек
+- **API:** REST, SOAP, Postman, cURL, Swagger, Charles
+- **Базы данных:** PostgreSQL, SQL-запросы, Metabase
+- **Логи и мониторинг:** Kibana, Grafana, Sentry, Jaeger
+- **Брокеры сообщений:** Apache Kafka (Kafka UI, Offset Explorer)
+- **Инструменты:** Docker, Jmeter, Linux (bash)
+- **Версионирование:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Практика
+- Интеграционное тестирование микросервисов через Kafka
+- Анализ логов в реальном времени (tail -f, grep, Kibana)
+- Тестирование REST API с проверкой контрактов
+- Работа с базами данных и проверка состояния после обработки сообщений
+
+## Визитка
+🔗 https://alekskobelev.github.io/Aleksander_Skobelev_QA/
+
+## Контакты
+- Telegram: [@alek_skobelev](https://t.me/alek_skobelev)
